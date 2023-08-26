@@ -1,0 +1,7 @@
+color hunt and css color to select specific color
+selector(WHO){
+    property(WHAT): value(HOW)
+}
+favicon(Fav icon)
+In css box 
+*Margin does not affect the height and width of the box while padding and border does
